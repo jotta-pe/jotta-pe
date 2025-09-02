@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou João Pedro
+# Olá! 👋 Eu sou João Pedro de Brito
 
 ### 📊 Transformando dados em decisões inteligentes
 
