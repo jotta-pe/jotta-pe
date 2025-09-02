@@ -11,7 +11,7 @@ Sou **Analista de Dados** formado em Matemática pelo IFBA, com mais de dois ano
 - 🎓 **Formação**: Licenciatura em Matemática - IFBA (2025)
 - 💼 **Experiência atual**: Analista de Dados na Prefeitura de Salvador
 - 📈 **Especialização**: Business Intelligence, Análise de Dados e Machine Learning
-- 🎯 **Foco**: Machine Learning e soluções automatizadas
+- 🎯 **Foco**: Ciência de Dadps, Machine Learning e soluções automatizadas
 - 🌱 **Estudando**: Ciência de Dados desde 2020
 
 ## 💻 Stack Tecnológica
